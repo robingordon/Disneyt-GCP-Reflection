@@ -38,7 +38,9 @@
 -- 080218   PPA01    ASM/IHOB      Added RTM cases for Asynchronous Messaging &   2.6
 --                                 In-House Outbound.
 -- 130318   aca30    NWAR          Added RTM cases for 'sky-services'             2.7
--- 250919   ANP52    GCP           Update for migration to BQ					  3.0
+-- 250919   ANP52    GCP           Update for migration to BQ	            3.0
+-- 010319   rgo15    Disney+       GCP reflection for addition of 'type_92'       3.1
+--                                 entries for the new Disney+ subscription
 --------------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
